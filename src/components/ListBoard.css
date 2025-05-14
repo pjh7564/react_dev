@@ -1,0 +1,56 @@
+.custom-container {
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.custom-title {
+    color: #00d4ff;
+    font-weight: bold;
+}
+
+.custom-header {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.custom-subtitle {
+    margin-top: 20px;
+    color: #00ffab;
+}
+
+.custom-button {
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #ff5722;
+    color: white;
+}
+
+.custom-table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.custom-link {
+    color: #00d4ff;
+    text-decoration: none;
+}
+
+.custom-link:hover {
+    text-decoration: underline;
+    color: #ff5722;
+}
+
+.custom-footer {
+    margin-top: 30px;
+    color: #cccccc;
+}
+
+.custom-footer ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
